@@ -1,0 +1,525 @@
+/home/fares/venv/bin/python /home/fares/PycharmProjects/CollectW/__init__.py
+<!DOCTYPE HTML>
+<html class="no-js" lang="ar" dir="rtl" xmlns:og="http://ogp.me/ns#">
+    <head>
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="Content-Type" content="text/html;" charset="UTF-8">
+	<link rel="shortcut icon"  href="https://www.algerietelecom.dz/assets/front/img/favicon.png" />
+	<title>دليل الخواص Algérie Télécom</title>
+	<meta name="keywords" content="" />
+	<meta name="description" content="Site Algérie Telecom" />
+
+        <meta property="fb:app_id" content="1753710394852394"/>
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content="دليل الخواص Algérie Télécom" />
+        <meta property="og:description" content="Site Algérie Telecom" />
+        <meta property="og:url" content="https://www.algerietelecom.dz/ar/annuaire" />
+        <meta property="og:site_name" content="Algérie Télécom" />
+        <meta property="og:image" content="https://www.algerietelecom.dz/docs/media/media/1/original/Annuaire-Desk-450-346.jpg" />
+         <script src="https://www.algerietelecom.dz/assets/front/js/jquery.js"></script>
+         <link rel="stylesheet" href="https://www.algerietelecom.dz/assets/front/css/at-rtl.css">
+
+        <link rel="stylesheet" type="text/css" href="https://www.algerietelecom.dz/assets/front/css/at.print.css" media="print" />
+        <link rel="stylesheet" type="text/css" href="https://www.algerietelecom.dz/assets/front/css/at-add-ar.css" />
+    </head>
+<body>
+  <header class="site-header">
+    <nav class="site-topbar" role="navigation">
+      <ul class="nav nav-secondary">
+	<li class="active">
+		<a href="https://www.algerietelecom.dz/ar/home" alt="إتصــالات الجزائــر">
+			إتصــالات الجزائــر		</a>
+	</li>
+	<li class="">
+		<a href="https://www.algerietelecom.dz/ar/particuliers" alt="الـخـواص">
+			الـخـواص		</a>
+	</li>
+	<li class="">
+		<a href="https://www.algerietelecom.dz/ar/entreprises" alt="المحترفين">
+			المحترفين		</a>
+	</li>
+</ul>
+<ul class="nav nav-links">
+	<li >
+		<a class="" href="https://www.algerietelecom.dz/fr/demande-na" alt="طلب خط ثابت">
+			<i class=""></i>
+			<span>طلب خط ثابت</span>
+		</a>
+	</li>
+	<li >
+		<a class="" href="https://www.algerietelecom.dz/ar/page/questions-frequentes-p5" alt="الأسئلة  المتداولة">
+			<i class="fa fa-question-circle"></i>
+			<span>الأسئلة  المتداولة</span>
+		</a>
+	</li>
+	<li >
+		<a class="" href="https://www.algerietelecom.dz/ar/contact" alt="الإتصال بنا">
+			<i class="fa fa-envelope"></i>
+			<span>الإتصال بنا</span>
+		</a>
+	</li>
+	<li >
+		<a class="" href="https://ec.algerietelecom.dz/AR/portail.php" alt="فضاء الزبون">
+			<i class="fa fa-user-circle-o"></i>
+			<span>فضاء الزبون</span>
+		</a>
+	</li>
+	<li >
+		<a class="" href="https://www.algerietelecom.dz/ar/agence" alt="شبكتنا">
+			<i class="fa fa-map-marker"></i>
+			<span>شبكتنا</span>
+		</a>
+	</li>
+</ul>    </nav>
+    <section class="site-navbar">
+      <button class="mobile-button" data-toggle="collapse" data-target="#mobile-menu"><span></span></button>
+      <div class="mobile-nav collapse" id="mobile-menu">
+        <form class="mobile-nav-search" action="https://www.algerietelecom.dz/ar/recherche" methode="GET" >
+            <input type="search" name="search" class="site-search-input" placeholder="بحث">
+            <button class="site-search-button"><i class="fa fa-search"></i></button>
+        </form>
+
+        <ul class="mobile-nav-menu" id="mobile-nav-primary">
+	<li>
+					<a href="https://www.algerietelecom.dz/ar/home" alt="الرئيسية">
+				<i class=""></i>
+				<span>الرئيسية</span>
+			</a>
+			</li>
+	<li>
+					<a href="https://www.algerietelecom.dz/fr/demande-na" alt="طلب خط ثابت">
+				<i class=""></i>
+				<span>طلب خط ثابت</span>
+			</a>
+			</li>
+	<li>
+					<a href="https://www.algerietelecom.dz/ar/page/le-groupe-p2" alt="الشركة">
+				<i class=""></i>
+				<span>الشركة</span>
+			</a>
+			</li>
+	<li>
+					<a href="#" data-toggle="collapse" data-target="#menu-71" alt="فضاء الصحافة والأخبار">
+				<span>فضاء الصحافة والأخبار</span>
+			</a>
+			<ul class="submenu collapse" id="menu-71">
+							<li><a href="https://www.algerietelecom.dz/ar/espace-presse/communiques-de-presse-type1" alt="البيانات الصحفية">
+					البيانات الصحفية				</a></li>
+						</ul>
+			</li>
+	<li>
+					<a href="https://www.algerietelecom.dz/ar/page/questions-frequentes-p5" alt="الأسئلة  المتداولة">
+				<i class="fa fa-question-circle"></i>
+				<span>الأسئلة  المتداولة</span>
+			</a>
+			</li>
+	<li>
+					<a href="https://www.algerietelecom.dz/ar/contact" alt="الإتصال بنا">
+				<i class="fa fa-envelope"></i>
+				<span>الإتصال بنا</span>
+			</a>
+			</li>
+	<li>
+					<a href="https://www.algerietelecom.dz/ar/agence" alt="شبكتنا">
+				<i class="fa fa-map-marker"></i>
+				<span>شبكتنا</span>
+			</a>
+			</li>
+	<li>
+					<a href="https://ec.algerietelecom.dz/AR/portail.php" alt="فضاء الزبون">
+				<i class="fa fa-user-circle-o"></i>
+				<span>فضاء الزبون</span>
+			</a>
+			</li>
+	<li>
+					<a href="https://www.algerietelecom.dz/ar/fr/appels-offres" alt="المنـــاقصــات">
+				<i class=""></i>
+				<span>المنـــاقصــات</span>
+			</a>
+			</li>
+	<li>
+					<a href="https://www.algerietelecom.dz/ar/ar/avis-consultation" alt="إستشارة">
+				<i class=""></i>
+				<span>إستشارة</span>
+			</a>
+			</li>
+	<li>
+					<a href="https://www.algerietelecom.dz/ar/basculement" alt="ترقيم جديد">
+				<i class=""></i>
+				<span>ترقيم جديد</span>
+			</a>
+			</li>
+	<li>
+					<a href="https://www.algerietelecom.dz/ar/annuaire" alt="دليل الخواص">
+				<i class=""></i>
+				<span>دليل الخواص</span>
+			</a>
+			</li>
+	<li>
+					<a href="#" data-toggle="collapse" data-target="#menu-225" alt="استمارات">
+				<span>استمارات</span>
+			</a>
+			<ul class="submenu collapse" id="menu-225">
+							<li><a href="https://www.algerietelecom.dz/docs/document/autres/Formulaire-d-adhesion-au-service-de-E-paiement-510.pdf" alt="استمارة الاشتراك في خدمة الدفع الالكتروني">
+					استمارة الاشتراك في خدمة الدفع الالكتروني				</a></li>
+							<li><a href="https://www.algerietelecom.dz/docs/document/autres/Formulaire-d-autorisation-de-prelevement-automatique-511.pdf" alt="استمارة الاقتطاع">
+					استمارة الاقتطاع				</a></li>
+							<li><a href="https://www.algerietelecom.dz/docs/document/autres/formulaire-de-cession-de-ligne-TLP-Fixe-512.pdf" alt="استمارة التنازل عن خط هاتفي">
+					استمارة التنازل عن خط هاتفي				</a></li>
+							<li><a href="https://www.algerietelecom.dz/docs/document/autres/formulaire-de-transfert-de-ligne-TLP-Fixe-513.pdf" alt="استمارة تحويل خط هاتفي">
+					استمارة تحويل خط هاتفي				</a></li>
+							<li><a href="https://www.algerietelecom.dz/docs/document/autres/formulaire-de-demande-de-ligne-536.pdf" alt="استمارة طلب خط">
+					استمارة طلب خط				</a></li>
+						</ul>
+			</li>
+	<li>
+					<a href="https://www.algerietelecom.dz/ar/espace-presse/mise-en-demeure-type13" alt="إعذارات">
+				<i class=""></i>
+				<span>إعذارات</span>
+			</a>
+			</li>
+</ul>        <div class="mobile-nav-footer">
+            <div class="mobile-nav-secondary"></div>
+        </div>
+      </div>
+      <div class="site-lang dropdown">
+                    <a href="#" class="site-lang-item" data-toggle="dropdown"> <span class="caret"></span> AR</a>
+                    <ul class="dropdown-menu">
+                              <li><a href="https://www.algerietelecom.dz/fr/annuaire">FR</a></li>
+                              <li><a href="https://www.algerietelecom.dz/ta/annuaire">TA</a></li>
+                        </ul>
+      </div>
+
+      <form class="site-search" action="https://www.algerietelecom.dz/ar/recherche" methode="GET" >
+          <input type="search" name="search" class="site-search-input" placeholder="بحث">
+          <button class="site-search-button"><i class="fa fa-search"></i></button>
+      </form>
+      <a href="https://www.algerietelecom.dz/ar/" class="site-logo"><img src="https://www.algerietelecom.dz/assets/front/img/logo.svg"></a>
+      <ul class="nav nav-primary">
+	<li>
+		<a class="" href="https://www.algerietelecom.dz/ar/home" alt="الرئيسية">
+			<i class=""></i>
+			<span>الرئيسية</span>
+		</a>
+			</li>
+	<li>
+		<a class="" href="https://www.algerietelecom.dz/ar/page/le-groupe-p2" alt="الشركة">
+			<i class=""></i>
+			<span>الشركة</span>
+		</a>
+			</li>
+	<li>
+		<a class="" href="https://www.algerietelecom.dz/ar/ar/espace-presse" alt="فضاء الصحافة والأخبار">
+			<i class=""></i>
+			<span>فضاء الصحافة والأخبار</span>
+		</a>
+					<ul class="submenu" id="menu-67">
+							<li><a href="https://www.algerietelecom.dz/ar/espace-presse/communiques-de-presse-type1" alt="البيانات الصحفية">
+					البيانات الصحفية				</a></li>
+						</ul>
+			</li>
+</ul>
+    </section>
+  </header>
+
+<main class="page directory-page">
+        <header class="page-header">
+        <picture>
+                    <source media="(max-width: 768px)" srcset="https://www.algerietelecom.dz/docs/media/1/original/Annuaire-92.jpg">
+                    <img class="page-image" src="https://www.algerietelecom.dz/docs/media/media/1/original/Annuaire-Desk-450-346.jpg" alt="دليل الخواص">
+        </picture>
+    </header>
+        <ul class="nav nav-tabs section-nav annuiare-nav">
+        <li class="active"><a href="https://www.algerietelecom.dz/ar/annuaire">دليل</a></li>
+        <li><a href="https://www.algerietelecom.dz/ar/annuaire-inv">دليل معكوس</a></li>
+    </ul>
+    <div class="container">
+        <div class="page-content row">
+            <aside class="col-md-4">
+                <h3 class="directory-form-title"><i class="fa fa-address-book"></i><span>البحث عن إحداثيات معينة</span></h3>
+                <div id="alert" class=""></div><br/>
+                <form id="frm-annuaire" action="https://www.algerietelecom.dz/ar/annuaire/search" class="directory-form"  method="post">
+                    <input type="hidden" id="offset" name="offset" value="0" />
+                    <input type="hidden" id="formsession" name="formsession" value="" />
+                    <div class="form-group"  id="block_nom">
+                        <input type="text" name="nom" class="form-control" placeholder=" اللقب " value="" />
+                                            </div>
+                    <div class="form-group" id="block_prenom">
+                        <input type="text" name="prenom" class="form-control" placeholder=" الاسم " value="" />
+                        <span class="text-danger" ></span>
+                    </div>
+                    <div class="form-group" id="block_wilaya">
+                    	<select name="wilaya" id="wilaya" class="form-control" onchange="changerwilaya()">
+<option value="0">--الولاية--</option>
+<option value="أدرار">أدرار</option>
+<option value="الشلف">الشلف</option>
+<option value="الأغواط">الأغواط</option>
+<option value="أم البواقي">أم البواقي</option>
+<option value="باتنة">باتنة</option>
+<option value="بجاية">بجاية</option>
+<option value="بسكرة">بسكرة</option>
+<option value="بشار">بشار</option>
+<option value="البليدة">البليدة</option>
+<option value="البويرة">البويرة</option>
+<option value="تمنراست">تمنراست</option>
+<option value="تبسة">تبسة</option>
+<option value="تلمسان">تلمسان</option>
+<option value="تيارت">تيارت</option>
+<option value="تيزي وزو">تيزي وزو</option>
+<option value="الجزائر">الجزائر</option>
+<option value="الجلفة">الجلفة</option>
+<option value="جيجل">جيجل</option>
+<option value="سطيف">سطيف</option>
+<option value="سعيدة">سعيدة</option>
+<option value="سكيكيدة">سكيكيدة</option>
+<option value="سيدي بلعباس">سيدي بلعباس</option>
+<option value="عنابة">عنابة</option>
+<option value="قالمة">قالمة</option>
+<option value="قسنطينة">قسنطينة</option>
+<option value="المدية">المدية</option>
+<option value="مستغانم">مستغانم</option>
+<option value="المسيلة">المسيلة</option>
+<option value="معسكر">معسكر</option>
+<option value="ورقلة">ورقلة</option>
+<option value="وهران">وهران</option>
+<option value="البيض">البيض</option>
+<option value="إليزي">إليزي</option>
+<option value="برج بوعريريج">برج بوعريريج</option>
+<option value="بومرداس">بومرداس</option>
+<option value="الطارف">الطارف</option>
+<option value="تندوف">تندوف</option>
+<option value="تسمسيلت">تسمسيلت</option>
+<option value="الوادي">الوادي</option>
+<option value="خنشلة">خنشلة</option>
+<option value="سوق الأهراس">سوق الأهراس</option>
+<option value="تيبازة">تيبازة</option>
+<option value="ميلة">ميلة</option>
+<option value="عين الدفلى">عين الدفلى</option>
+<option value="النعامة">النعامة</option>
+<option value="عين تموشنت">عين تموشنت</option>
+<option value="غرداية">غرداية</option>
+<option value="غليزان">غليزان</option>
+</select>
+ 						<span class="text-danger" ></span>
+                    </div>
+                    <div class="form-group" id="block_commune"></div>
+                    <div class="form-group" id="block_g-recaptcha-response">
+                        <div class="g-recaptcha" data-sitekey="6LcQV1kUAAAAAIigc6j_yZ6iCu-K3AnYvYVwgNhF" data-theme="light" data-type="image" data-size="normal" ></div>                        <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=onload&hl=fr" async defer></script>                        <span class="text-danger" ></span>
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" id="buttonenvoie" class="btn btn-primary btn-block"><span>بحث</span>
+                                <i style="display:none"  class="fa fa-lg fa-refresh fa-spin"></i>
+                        </button>
+                    </div>
+                    <p class="caption">
+                        إذا كنت تريد الإبلاغ عن خطأ في الدليل، يرجى إرسال بريد إلكتروني إلى العنوان التالي :                        <br> <a href="mailto:majannuaire.cpa@algerietelecom.dz">majannuaire.cpa@algerietelecom.dz</a></p>
+                </form>
+            </aside>
+            <section class="col-md-8">
+                <div class="directory" id="annuairecontent">
+
+                </div>
+            </section>
+        </div>
+    </div>
+</main>
+<script>
+    function initpagination() {
+        jQuery("#buttonenvoie").click(function(event){
+            jQuery('#offset').val(0);
+            jQuery('#formsession').val('');
+        });
+        jQuery("ul.pagination li a").click(function(event){
+            var href = jQuery(this).attr("href").split("/");
+            offset=0;
+            if(href[1])
+            {
+                offset=href[1];
+            }
+    	    jQuery('#offset').val(offset);
+            jQuery("#frm-annuaire").attr("action","https://www.algerietelecom.dz/ar/annuaire/search/" + offset);
+            jQuery("#frm-annuaire").submit();
+            event.preventDefault();
+        });
+    }
+</script>
+<script type="text/javascript">
+    function changerwilaya(){
+        var wilaya = jQuery('#wilaya').val();
+        jQuery('#block_commune').html('Chargement en cours ...');
+        jQuery.ajax({type:"POST",data:({}), url:"https://www.algerietelecom.dz/ar/annuaire/commune/" + wilaya,
+            success: function(msg){
+                jQuery('#block_commune').html(msg);
+            },
+            complete : function(){
+            },
+            error:function(XMLHttpRequest,textStatus, errorThrown){
+            }
+        });
+        return false;
+    }
+
+    jQuery("#frm-annuaire").submit(function(){
+        jQuery('#buttonenvoie i').show();
+        jQuery('#buttonenvoie span').hide();
+        jQuery('#alert').html('');
+        jQuery('#alertaucun').html('');
+        jQuery('#alert').removeClass('alert');
+        jQuery('#alert').removeClass('alert-success');
+        jQuery('#alert').removeClass('alert-danger');
+        jQuery('.column .text-danger').html('');
+        var offset = jQuery('#offset').val();
+        jQuery.ajax({type:"POST",data:jQuery(this).serialize(), url:"https://www.algerietelecom.dz/ar/annuaire/search/" + offset,
+            dataType: 'json',
+            success: function(msg)
+            {
+                grecaptcha.reset();
+                if(msg.resultat == 'ok'){
+                    jQuery('#annuairecontent').html(msg.content);
+                    initpagination();
+                    jQuery('#formsession').val(msg.formsession);
+                }else{
+                    jQuery('#formsession').val('');
+                    jQuery('#alert').html('حدث خطأ في معلومات الاتصال');
+                    jQuery('#alert').addClass('alert alert-danger');
+                    content = msg.content;
+                    for( id in content){
+                        jQuery('#frm-annuaire #block_'+id).addClass('has-error');
+                        jQuery('#frm-annuaire #block_'+id+' .text-danger').html(content[id]);
+                    }
+                    jQuery(".has-error").click(function(){
+                        jQuery('#frm-annuaire #'+jQuery(this).attr("id")+' .text-danger').html('');
+                        jQuery(this).removeClass("has-error");
+                    });
+                    window.location.href = '#alert';
+                }
+            },
+            complete : function(){
+                jQuery('#buttonenvoie span').show();
+                jQuery('#buttonenvoie i').hide();
+            },
+            error:function(XMLHttpRequest,textStatus, errorThrown){
+                alert("(0086) Erreur de chargement..."+XMLHttpRequest.responseText);
+                jQuery('#alert').html(XMLHttpRequest.responseText);
+            }
+        });
+        return false;
+    });
+</script>
+
+
+<footer class="site-footer">
+    <div class="site-map">
+        <div class="container">
+            <div class="row">
+                                    <div class="col-md-3 col-sm-6">
+                        <ul class="site-map-menu">
+                            <li class="site-map-title">الشركة</li>
+
+                                                                                        <li><a href="https://www.algerietelecom.dz/ar/page/le-groupe-p2" alt="تعريف الشركة">
+                                    </i class=""></i>تعريف الشركة                                </a></li>
+                                                            <li><a href="https://www.algerietelecom.dz/ar/appels-offres" alt="المنـــاقصــات">
+                                    </i class=""></i>المنـــاقصــات                                </a></li>
+                                                            <li><a href="https://www.algerietelecom.dz/ar/ar/avis-consultation" alt="إستشارة">
+                                    </i class=""></i>إستشارة                                </a></li>
+                                                            <li><a href="https://www.algerietelecom.dz/ar/basculement" alt="ترقيم جديد">
+                                    </i class=""></i>ترقيم جديد                                </a></li>
+                                                            <li><a href="https://www.algerietelecom.dz/ar/annuaire" alt="دليل الخواص">
+                                    </i class=""></i>دليل الخواص                                </a></li>
+                                                            <li><a href="https://www.algerietelecom.dz/ar/espace-presse/mise-en-demeure-type13" alt="إعذارات">
+                                    </i class=""></i>إعذارات                                </a></li>
+                                                                                </ul>
+                    </div>
+                                    <div class="col-md-3 col-sm-6">
+                        <ul class="site-map-menu">
+                            <li class="site-map-title">المحترفين</li>
+
+                                                                                        <li><a href="https://www.algerietelecom.dz/ar/entreprises" alt="الثابت">
+                                    </i class=""></i>الثابت                                </a></li>
+                                                            <li><a href="https://www.algerietelecom.dz/ar/entreprises" alt="الإنترنت">
+                                    </i class=""></i>الإنترنت                                </a></li>
+                                                            <li><a href="https://www.algerietelecom.dz/ar/entreprises" alt="الخدمات">
+                                    </i class=""></i>الخدمات                                </a></li>
+                                                                                </ul>
+                    </div>
+                                    <div class="col-md-3 col-sm-6">
+                        <ul class="site-map-menu">
+                            <li class="site-map-title">الـخـواص</li>
+
+                                                                                        <li><a href="https://www.algerietelecom.dz/ar/particuliers/idoom-fixe-prod1" alt="الثابت">
+                                    </i class=""></i>الثابت                                </a></li>
+                                                            <li><a href="https://www.algerietelecom.dz/ar/particuliers" alt="الإنترنت">
+                                    </i class=""></i>الإنترنت                                </a></li>
+                                                            <li><a href="https://www.algerietelecom.dz/ar/particuliers" alt="الخدمات">
+                                    </i class=""></i>الخدمات                                </a></li>
+                                                                                </ul>
+                    </div>
+                                    <div class="col-md-3 col-sm-6">
+                        <ul class="site-map-menu">
+                            <li class="site-map-title">استمارات</li>
+
+                                                                                        <li><a href="https://www.algerietelecom.dz/docs/document/autres/Formulaire-d-adhesion-au-service-de-E-paiement-510.pdf" alt="استمارة الاشتراك في خدمة الدفع الالكتروني">
+                                    </i class=""></i>استمارة الاشتراك في خدمة الدفع الالكتروني                                </a></li>
+                                                            <li><a href="https://www.algerietelecom.dz/docs/document/autres/Formulaire-d-autorisation-de-prelevement-automatique-511.pdf" alt="استمارة الاقتطاع">
+                                    </i class=""></i>استمارة الاقتطاع                                </a></li>
+                                                            <li><a href="https://www.algerietelecom.dz/docs/document/autres/formulaire-de-cession-de-ligne-TLP-Fixe-512.pdf" alt="استمارة التنازل عن خط هاتفي">
+                                    </i class=""></i>استمارة التنازل عن خط هاتفي                                </a></li>
+                                                            <li><a href="https://www.algerietelecom.dz/docs/document/autres/formulaire-de-transfert-de-ligne-TLP-Fixe-513.pdf" alt="استمارة تحويل خط هاتفي">
+                                    </i class=""></i>استمارة تحويل خط هاتفي                                </a></li>
+                                                            <li><a href="https://www.algerietelecom.dz/docs/document/autres/formulaire-de-demande-de-ligne-536.pdf" alt="استمارة طلب خط">
+                                    </i class=""></i>استمارة طلب خط                                </a></li>
+                                                                                </ul>
+                    </div>
+                            </div>
+        </div>
+    </div>
+    <div class="site-footer-bottom">
+        <div class="container">
+            <a href="#" class="site-logo"><img src="https://www.algerietelecom.dz/assets/front/img/logo.svg"></a>
+            <ul class="site-footer-links">
+                                    <li><a href="http://www.algerietelecom.dz/docs/document/autres/catalogue-d-interco-2018-2019-1141.pdf" alt="فهرس التوصيل البيني">فهرس التوصيل البيني</a></li>
+                                    <li><a href="https://www.algerietelecom.dz/ar/page/mentions-legales-p8" alt="البيانات القانونية">البيانات القانونية</a></li>
+                                <li class="copyright"><span>&copysr; 2019 إتصــالات الجزائــر</span></li>
+            </ul>
+            <ul class="social">
+                                    <li><a  target="_blank" href="http://www.facebook.com/algerietelecomgroupe/" alt="Facebook">
+                        <i class="fa fa-facebook-official facebook"></i>
+                    </a></li>
+                                    <li><a  target="_blank" href="https://twitter.com/Algerie_Telecom" alt="Twitter">
+                        <i class="fa fa-twitter-square twitter"></i>
+                    </a></li>
+                                    <li><a  target="_blank" href="http://www.youtube.com/tvalgerietelecom" alt="Youtube">
+                        <i class="fa fa-youtube-square youtube"></i>
+                    </a></li>
+                                    <li><a  target="_blank" href="http://www.instagram.com/algerietelecom" alt="Instagram">
+                        <i class="fa fa-instagram instagram"></i>
+                    </a></li>
+                                    <li><a  target="_blank" href="http://www.linkedin.com/company/algerie-telecom" alt="Linkedin">
+                        <i class="fa fa-linkedin-square linkedin"></i>
+                    </a></li>
+                            </ul>
+        </div>
+    </div>
+</footer>
+
+<script src="https://www.algerietelecom.dz/assets/front/js/at.js"></script>
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110849395-1"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110849395-1');
+
+</script>
+
+</body>
+</html>
