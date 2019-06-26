@@ -33,7 +33,7 @@ if __name__ == '__main__':
 	
 	# combine all the data
 	"""
-	from data.wilaya.wilaya import *
+	from data.crowlers.wilaya import *
 	import managedata as md
 	
 	wilaya = {}
