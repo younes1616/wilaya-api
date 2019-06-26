@@ -6,7 +6,7 @@ FR_LINK = "https://www.algerietelecom.dz/fr/annuaire"
 
 # pour le annuaire de la part du ministere
 FR_LINK_M = "http://www.interieur.gov.dz/index.php/fr/component/annuaire/index.php?w={}&d=&c=&view=search"
-
+AR_LINK_M = "http://www.interieur.gov.dz/index.php/ar/component/annuaire/index.php?w={}&d=&c=&view=search_ar"
 # an exemple for the format of the wilaya
 '''
  "27": {
