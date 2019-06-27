@@ -1,5 +1,13 @@
 if __name__ == '__main__':
+	
 	'''
+	import re
+	import requests
+	from bs4 import BeautifulSoup
+	
+	from config import *
+	from data.pythonData.wilaya import *
+	
 	# for geting the names of the baladiya in Latin
 	c = 1
 
@@ -20,6 +28,13 @@ if __name__ == '__main__':
 	'''
 	
 	'''
+	import re
+	import requests
+	from bs4 import BeautifulSoup
+	
+	from config import *
+	from data.pythonData.wilaya import *
+	
 	# for geting the names of the baladiya in Arabic
 	c = 1
 
@@ -40,6 +55,14 @@ if __name__ == '__main__':
 	'''
 	
 	'''
+	import re
+	import requests
+	from bs4 import BeautifulSoup
+	
+	from config import *
+	from data.pythonData.wilaya import *
+	
+	
 	# setting up and combining the data
 	# for containing all the elements
 	AR = dict()

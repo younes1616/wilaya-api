@@ -18,6 +18,13 @@ if __name__ == '__main__':
 	
 	#  for French wilaya
 	"""
+	import re
+	import requests
+	from bs4 import BeautifulSoup
+	
+	from config import *
+	from data.pythonData.wilaya import *
+	
 	html = requests.get(FR_LINK)
 	#  in case you want to see the html page
 	print(html.text)
