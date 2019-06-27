@@ -20,7 +20,6 @@ class Db(object):
         self.query = ""
         self.cur = ""
     
-
     def connect(self):
         """
         function used for starting the connection, to
@@ -35,7 +34,6 @@ class Db(object):
             self.conn.close()
             return False
         
-
     def close(self):
         """
         at the end of what ever you are doing in the DB, use this
@@ -52,7 +50,6 @@ class Db(object):
         except Error:
             return False
             
-
     def createTable(self, table_query):
         """
         this functions is made specially for creating tables,
@@ -76,7 +73,6 @@ class Db(object):
         
         except Error:
             return False
-
 
 
     def prepareQuery(self, query):
@@ -103,7 +99,6 @@ class Db(object):
         except Error:
             return False
         
-
     def insertRow(self, row):
         """
         but before using it, use the prepareQuery(), then call this
@@ -144,7 +139,7 @@ class Db(object):
         """
 
         try:
-            if data == None:
+            if data is None:
                 self.cur.execute(self.query)
             else:
                 self.cur.execute(self.query, data)
@@ -154,7 +149,6 @@ class Db(object):
         except:
             return False
     
-
     def extractData(self, data=None):
         """
         but before using it, use the prepareQuery(), then call this
@@ -183,7 +177,7 @@ class Db(object):
         insertRow()
         """
         try:
-            if data != None:
+            if data is not None:
                 self.cur.execute(self.query, data)
             else:
                 self.cur.execute(self.query)
@@ -191,11 +185,8 @@ class Db(object):
             for row in self.cur.fetchall():
                 yield row
 
-                
         except Error:
             yield None
-    
-
 
     def notTableOutPutQuey(self, data=None):
         """
@@ -226,7 +217,7 @@ class Db(object):
 
         """
         try:
-            if data != None:
+            if data is not None:
                 self.cur.execute(self.query, data)
             else:
                 self.cur.execute(self.query)
