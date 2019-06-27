@@ -1,56 +1,56 @@
 # table pour la liste des codes des baladiya
 BALADIYA_CODE_TABLE = '''
-CREATE TABLE IF NOT EXISTS BALADIYA_CODE(
-    code TEXT PRIMARY KEY,
-);
-'''
+		CREATE TABLE IF NOT EXISTS BALADIYA_CODE(
+		    code TEXT PRIMARY KEY
+		);
+		'''
 
 # table pour la liste des noms des baladiya en latin
 BALADIYA_FR_TABLE = '''
 CREATE TABLE IF NOT EXISTS BALADIYA_FR(
-    name_fr TEXT PRIMARY KEY,
+    name_fr TEXT PRIMARY KEY
 );
 '''
 
 # table pour la liste des noms des baladiya en arabe
 BALADIYA_AR_TABLE = '''
 CREATE TABLE IF NOT EXISTS BALADIYA_AR(
-    name_ar TEXT PRIMARY KEY,
+    name_ar TEXT PRIMARY KEY
 );
 '''
 
 # table pour la liste des codes des wilaya
 WILAYA_CODE_TABLE = '''
 CREATE TABLE IF NOT EXISTS WILAYA_CODE(
-    code TEXT PRIMARY KEY,
+    code TEXT PRIMARY KEY
 );
 '''
 
 # table pour la liste des codes post des wilaya
 WILAYA_CODE_POST_TABLE = '''
 CREATE TABLE IF NOT EXISTS WILAYA_CODE_POST(
-    code_post TEXT PRIMARY KEY,
+    code_post TEXT PRIMARY KEY
 );
 '''
 
 # table pour la liste des codes post des wilaya
 WILAYA_CODE_TEL_TABLE = '''
 CREATE TABLE IF NOT EXISTS WILAYA_CODE_TEL(
-    code_tel TEXT PRIMARY KEY,
+    code_tel TEXT PRIMARY KEY
 );
 '''
 
 # table pour la liste des noms des wilaya en latin
 WILAYA_FR_TABLE = '''
 CREATE TABLE IF NOT EXISTS WILAYA_FR(
-    name_fr TEXT PRIMARY KEY,
+    name_fr TEXT PRIMARY KEY
 );
 '''
 
 # table pour la liste des noms des wilaya en arabe
 WILAYA_AR_TABLE = '''
 CREATE TABLE IF NOT EXISTS WILAYA_AR(
-    name_ar TEXT PRIMARY KEY,
+    name_ar TEXT PRIMARY KEY
 );
 '''
 

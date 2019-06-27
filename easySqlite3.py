@@ -19,7 +19,7 @@ class Db(object):
         self.conn = ""
         self.query = ""
         self.cur = ""
-    
+
     def connect(self):
         """
         function used for starting the connection, to
@@ -29,11 +29,11 @@ class Db(object):
             self.conn = sqlite3.Connection(self.db)
             self.cur = self.conn.cursor()
             return True
-            
+
         except Error:
             self.conn.close()
             return False
-        
+
     def close(self):
         """
         at the end of what ever you are doing in the DB, use this
@@ -46,10 +46,10 @@ class Db(object):
             self.cur.close()
             self.conn.close()
             return True
-        
+
         except Error:
             return False
-            
+
     def createTable(self, table_query):
         """
         this functions is made specially for creating tables,
@@ -70,10 +70,9 @@ class Db(object):
             self.cur.execute(table_query)
             self.conn.commit()
             return True
-        
+
         except Error:
             return False
-
 
     def prepareQuery(self, query):
         """
@@ -95,17 +94,17 @@ class Db(object):
         try:
             self.query = query
             return True
-        
+
         except Error:
             return False
-        
+
     def insertRow(self, row):
         """
         but before using it, use the prepareQuery(), then call this
         one with a list of the parameters(Values).
 
         as said for inserting multiple data rows.
-        
+
         Ex:
         ---
         prepareQuery(query)
@@ -119,7 +118,6 @@ class Db(object):
         except Error:
             return False
 
-
     def justQuery(self, data=None):
         """
         but before using it, use the prepareQuery(), then call this
@@ -127,7 +125,7 @@ class Db(object):
 
         for another usage query like delete, update any other type for queries
         that does not have anything as an output on.
-        
+
         Ex:
         ---
         query = ALTER TABLE [YOUR TABLE]
@@ -148,7 +146,7 @@ class Db(object):
             return True
         except:
             return False
-    
+
     def extractData(self, data=None):
         """
         but before using it, use the prepareQuery(), then call this
@@ -198,20 +196,20 @@ class Db(object):
         select coun(*)
         select max()....
             with out Goup By
-        
+
         in case it returns None it means that there is some thing wrong with the query.
-        
+
         Ex1:
         ----
             query = SELECT count(*) FROM [YOUR TABLE]
             prepareQuery(query)
             notTableOutPutQuery()
-        
+
         Ex2:
         ----
             query = SELECT count(*) FROM [YOUR TABLE]
                     HAVING BY  [COLOMN]=? -VALUE-
-            
+
             prepareQuery(query)
             notTableOutPutQuery([data])
 
@@ -224,10 +222,10 @@ class Db(object):
 
             d = self.cur.fetchall()[0]
             return d[0]
-            
+
         except Error:
             return None
-        
-        
+
+
 if __name__ == "__main__":
     pass
