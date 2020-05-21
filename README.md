@@ -101,8 +101,4 @@ TOOLS:
   sqliteSchema.sql, contains the database Shema as sqlite, sqlSchema.sql as usual Sql<br>
   sqlData.sql, contains the data so you can insert it into you new data basse.
   
-<h1> Please check the files, for a better undertanding </h1>  
-<<<<<<< HEAD
-
-=======
->>>>>>> dad1a54dad80bd4a8bd570a267b5ff0c7eaeb483
+<h1> Please check the files, for a better undertanding </h1>
