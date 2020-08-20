@@ -1,10 +1,10 @@
 {
-    "data":{
-        "31":{
-            "nameEn":"Oran",
-            "nameAr":"وهران",
-            "code":"31",
-            "commune":[
+    "data": {
+        "31": {
+            "nameEn": "Oran",
+            "nameAr": "وهران",
+            "code": "31",
+            "commune": [
                 "3109",
                 "3122",
                 "3101",
@@ -32,15 +32,15 @@
                 "3115",
                 "3114"
             ],
-            "nameFr":"Oran",
-            "codeTel":"41",
-            "codePost":"31000"
+            "nameFr": "Oran",
+            "codeTel": "41",
+            "codePost": "31000"
         },
-        "15":{
-            "nameEn":"Tizi Ouzou",
-            "nameAr":"تيزي وزو",
-            "code":"15",
-            "commune":[
+        "15": {
+            "nameEn": "Tizi Ouzou",
+            "nameAr": "تيزي وزو",
+            "code": "15",
+            "commune": [
                 "1554",
                 "1566",
                 "1565",
@@ -109,15 +109,15 @@
                 "1502",
                 "1513"
             ],
-            "nameFr":"Tizi Ouzou",
-            "codeTel":"26",
-            "codePost":"15000"
+            "nameFr": "Tizi Ouzou",
+            "codeTel": "26",
+            "codePost": "15000"
         },
-        "22":{
-            "nameEn":"Sidi Bel Abbes",
-            "nameAr":"سيدي بلعباس",
-            "code":"22",
-            "commune":[
+        "22": {
+            "nameEn": "Sidi Bel Abbes",
+            "nameAr": "سيدي بلعباس",
+            "code": "22",
+            "commune": [
                 "2203",
                 "2247",
                 "2210",
@@ -171,15 +171,15 @@
                 "2201",
                 "2246"
             ],
-            "nameFr":"Sidi Bel Abbes",
-            "codeTel":"48",
-            "codePost":"22000"
+            "nameFr": "Sidi Bel Abbes",
+            "codeTel": "48",
+            "codePost": "22000"
         },
-        "39":{
-            "nameEn":"El Oued",
-            "nameAr":"الوادي",
-            "code":"39",
-            "commune":[
+        "39": {
+            "nameEn": "El Oued",
+            "nameAr": "الوادي",
+            "code": "39",
+            "commune": [
                 "3902",
                 "3908",
                 "3912",
@@ -211,15 +211,15 @@
                 "3914",
                 "3919"
             ],
-            "nameFr":"El Oued",
-            "codeTel":"32",
-            "codePost":"39000"
+            "nameFr": "El Oued",
+            "codeTel": "32",
+            "codePost": "39000"
         },
-        "32":{
-            "nameEn":"El Bayadh",
-            "nameAr":"البيض",
-            "code":"32",
-            "commune":[
+        "32": {
+            "nameEn": "El Bayadh",
+            "nameAr": "البيض",
+            "code": "32",
+            "commune": [
                 "3201",
                 "3219",
                 "3215",
@@ -243,15 +243,15 @@
                 "3207",
                 "3203"
             ],
-            "nameFr":"El Bayadh",
-            "codeTel":"49",
-            "codePost":"32000"
+            "nameFr": "El Bayadh",
+            "codeTel": "49",
+            "codePost": "32000"
         },
-        "25":{
-            "nameEn":"Constantine",
-            "nameAr":"قسنطينة",
-            "code":"25",
-            "commune":[
+        "25": {
+            "nameEn": "Constantine",
+            "nameAr": "قسنطينة",
+            "code": "25",
+            "commune": [
                 "2509",
                 "2506",
                 "2507",
@@ -265,15 +265,15 @@
                 "2510",
                 "2504"
             ],
-            "nameFr":"Constantine",
-            "codeTel":"31",
-            "codePost":"25000"
+            "nameFr": "Constantine",
+            "codeTel": "31",
+            "codePost": "25000"
         },
-        "26":{
-            "nameEn":"Medea",
-            "nameAr":"المدية",
-            "code":"26",
-            "commune":[
+        "26": {
+            "nameEn": "Medea",
+            "nameAr": "المدية",
+            "code": "26",
+            "commune": [
                 "2660",
                 "2622",
                 "2639",
@@ -339,15 +339,15 @@
                 "2664",
                 "2628"
             ],
-            "nameFr":"Medea",
-            "codeTel":"25",
-            "codePost":"26000"
+            "nameFr": "Medea",
+            "codeTel": "25",
+            "codePost": "26000"
         },
-        "6":{
-            "nameEn":"Bejaia",
-            "nameAr":"بجاية",
-            "code":"6",
-            "commune":[
+        "6": {
+            "nameEn": "Bejaia",
+            "nameAr": "بجاية",
+            "code": "6",
+            "commune": [
                 "614",
                 "604",
                 "624",
@@ -401,15 +401,15 @@
                 "630",
                 "623"
             ],
-            "nameFr":"Bejaia",
-            "codeTel":"34",
-            "codePost":"06000"
+            "nameFr": "Bejaia",
+            "codeTel": "34",
+            "codePost": "06000"
         },
-        "30":{
-            "nameEn":"Ouargla",
-            "nameAr":"ورقلة",
-            "code":"30",
-            "commune":[
+        "30": {
+            "nameEn": "Ouargla",
+            "nameAr": "ورقلة",
+            "code": "30",
+            "commune": [
                 "3017",
                 "3012",
                 "3003",
@@ -432,15 +432,15 @@
                 "3004",
                 "3009"
             ],
-            "nameFr":"Ouargla",
-            "codeTel":"29",
-            "codePost":"30000"
+            "nameFr": "Ouargla",
+            "codeTel": "29",
+            "codePost": "30000"
         },
-        "44":{
-            "nameEn":"Aïn Defla",
-            "nameAr":"عين الدفلى",
-            "code":"44",
-            "commune":[
+        "44": {
+            "nameEn": "Aïn Defla",
+            "nameAr": "عين الدفلى",
+            "code": "44",
+            "commune": [
                 "4430",
                 "4405",
                 "4432",
@@ -478,15 +478,15 @@
                 "4427",
                 "4433"
             ],
-            "nameFr":"Aïn Defla",
-            "codeTel":"27",
-            "codePost":"44000"
+            "nameFr": "Aïn Defla",
+            "codeTel": "27",
+            "codePost": "44000"
         },
-        "35":{
-            "nameEn":"Boumerdes",
-            "nameAr":"بومرداس",
-            "code":"35",
-            "commune":[
+        "35": {
+            "nameEn": "Boumerdes",
+            "nameAr": "بومرداس",
+            "code": "35",
+            "commune": [
                 "3532",
                 "3505",
                 "3519",
@@ -520,15 +520,15 @@
                 "3504",
                 "3514"
             ],
-            "nameFr":"Boumerdes",
-            "codeTel":"24",
-            "codePost":"35000"
+            "nameFr": "Boumerdes",
+            "codeTel": "24",
+            "codePost": "35000"
         },
-        "24":{
-            "nameEn":"Guelma",
-            "nameAr":"قالمة",
-            "code":"24",
-            "commune":[
+        "24": {
+            "nameEn": "Guelma",
+            "nameAr": "قالمة",
+            "code": "24",
+            "commune": [
                 "2422",
                 "2405",
                 "2428",
@@ -564,15 +564,15 @@
                 "2420",
                 "2411"
             ],
-            "nameFr":"Guelma",
-            "codeTel":"37",
-            "codePost":"24000"
+            "nameFr": "Guelma",
+            "codeTel": "37",
+            "codePost": "24000"
         },
-        "21":{
-            "nameEn":"Skikda",
-            "nameAr":"سكيكيدة",
-            "code":"21",
-            "commune":[
+        "21": {
+            "nameEn": "Skikda",
+            "nameAr": "سكيكيدة",
+            "code": "21",
+            "commune": [
                 "2118",
                 "2102",
                 "2112",
@@ -612,15 +612,15 @@
                 "2123",
                 "2104"
             ],
-            "nameFr":"Skikda",
-            "codeTel":"38",
-            "codePost":"21000"
+            "nameFr": "Skikda",
+            "codeTel": "38",
+            "codePost": "21000"
         },
-        "40":{
-            "nameEn":"Khenchela",
-            "nameAr":"خنشلة",
-            "code":"40",
-            "commune":[
+        "40": {
+            "nameEn": "Khenchela",
+            "nameAr": "خنشلة",
+            "code": "40",
+            "commune": [
                 "4017",
                 "4014",
                 "4006",
@@ -643,15 +643,15 @@
                 "4009",
                 "4008"
             ],
-            "nameFr":"Khenchela",
-            "codeTel":"32",
-            "codePost":"40000"
+            "nameFr": "Khenchela",
+            "codeTel": "32",
+            "codePost": "40000"
         },
-        "43":{
-            "nameEn":"Mila",
-            "nameAr":"ميلة",
-            "code":"43",
-            "commune":[
+        "43": {
+            "nameEn": "Mila",
+            "nameAr": "ميلة",
+            "code": "43",
+            "commune": [
                 "4324",
                 "4309",
                 "4304",
@@ -685,15 +685,15 @@
                 "4307",
                 "4327"
             ],
-            "nameFr":"Mila",
-            "codeTel":"31",
-            "codePost":"43000"
+            "nameFr": "Mila",
+            "codeTel": "31",
+            "codePost": "43000"
         },
-        "14":{
-            "nameEn":"Tiaret",
-            "nameAr":"تيارت",
-            "code":"14",
-            "commune":[
+        "14": {
+            "nameEn": "Tiaret",
+            "nameAr": "تيارت",
+            "code": "14",
+            "commune": [
                 "1424",
                 "1428",
                 "1423",
@@ -737,15 +737,15 @@
                 "1415",
                 "1402"
             ],
-            "nameFr":"Tiaret",
-            "codeTel":"46",
-            "codePost":"14000"
+            "nameFr": "Tiaret",
+            "codeTel": "46",
+            "codePost": "14000"
         },
-        "8":{
-            "nameEn":"Béchar",
-            "nameAr":"بشار",
-            "code":"8",
-            "commune":[
+        "8": {
+            "nameEn": "Béchar",
+            "nameAr": "بشار",
+            "code": "8",
+            "commune": [
                 "820",
                 "810",
                 "819",
@@ -768,15 +768,15 @@
                 "812",
                 "804"
             ],
-            "nameFr":"Béchar",
-            "codeTel":"49",
-            "codePost":"08000"
+            "nameFr": "Béchar",
+            "codeTel": "49",
+            "codePost": "08000"
         },
-        "41":{
-            "nameEn":"Souk Ahras",
-            "nameAr":"سوق الأهراس",
-            "code":"41",
-            "commune":[
+        "41": {
+            "nameEn": "Souk Ahras",
+            "nameAr": "سوق الأهراس",
+            "code": "41",
+            "commune": [
                 "4106",
                 "4105",
                 "4103",
@@ -804,15 +804,15 @@
                 "4112",
                 "4110"
             ],
-            "nameFr":"Souk Ahras",
-            "codeTel":"37",
-            "codePost":"41000"
+            "nameFr": "Souk Ahras",
+            "codeTel": "37",
+            "codePost": "41000"
         },
-        "5":{
-            "nameEn":"Batna",
-            "nameAr":"باتنة",
-            "code":"5",
-            "commune":[
+        "5": {
+            "nameEn": "Batna",
+            "nameAr": "باتنة",
+            "code": "5",
+            "commune": [
                 "512",
                 "525",
                 "534",
@@ -875,15 +875,15 @@
                 "508",
                 "521"
             ],
-            "nameFr":"Batna",
-            "codeTel":"33",
-            "codePost":"05000"
+            "nameFr": "Batna",
+            "codeTel": "33",
+            "codePost": "05000"
         },
-        "48":{
-            "nameEn":"Relizane",
-            "nameAr":"غليزان",
-            "code":"48",
-            "commune":[
+        "48": {
+            "nameEn": "Relizane",
+            "nameAr": "غليزان",
+            "code": "48",
+            "commune": [
                 "4820",
                 "4824",
                 "4803",
@@ -923,15 +923,15 @@
                 "4812",
                 "4831"
             ],
-            "nameFr":"Relizane",
-            "codeTel":"46",
-            "codePost":"48000"
+            "nameFr": "Relizane",
+            "codeTel": "46",
+            "codePost": "48000"
         },
-        "12":{
-            "nameEn":"Tébessa",
-            "nameAr":"تبسة",
-            "code":"12",
-            "commune":[
+        "12": {
+            "nameEn": "Tébessa",
+            "nameAr": "تبسة",
+            "code": "12",
+            "commune": [
                 "1214",
                 "1223",
                 "1213",
@@ -961,15 +961,15 @@
                 "1202",
                 "1216"
             ],
-            "nameFr":"Tébessa",
-            "codeTel":"37",
-            "codePost":"12000"
+            "nameFr": "Tébessa",
+            "codeTel": "37",
+            "codePost": "12000"
         },
-        "9":{
-            "nameEn":"Blida",
-            "nameAr":"البليدة",
-            "code":"9",
-            "commune":[
+        "9": {
+            "nameEn": "Blida",
+            "nameAr": "البليدة",
+            "code": "9",
+            "commune": [
                 "914",
                 "920",
                 "907",
@@ -996,15 +996,15 @@
                 "912",
                 "919"
             ],
-            "nameFr":"Blida",
-            "codeTel":"25",
-            "codePost":"09000"
+            "nameFr": "Blida",
+            "codeTel": "25",
+            "codePost": "09000"
         },
-        "45":{
-            "nameEn":"Naama",
-            "nameAr":"النعامة",
-            "code":"45",
-            "commune":[
+        "45": {
+            "nameEn": "Naama",
+            "nameAr": "النعامة",
+            "code": "45",
+            "commune": [
                 "4507",
                 "4511",
                 "4509",
@@ -1018,15 +1018,15 @@
                 "4503",
                 "4501"
             ],
-            "nameFr":"Naama",
-            "codeTel":"49",
-            "codePost":"45000"
+            "nameFr": "Naama",
+            "codeTel": "49",
+            "codePost": "45000"
         },
-        "23":{
-            "nameEn":"Annaba",
-            "nameAr":"عنابة",
-            "code":"23",
-            "commune":[
+        "23": {
+            "nameEn": "Annaba",
+            "nameAr": "عنابة",
+            "code": "23",
+            "commune": [
                 "2303",
                 "2310",
                 "2309",
@@ -1040,15 +1040,15 @@
                 "2311",
                 "2301"
             ],
-            "nameFr":"Annaba",
-            "codeTel":"38",
-            "codePost":"23000"
+            "nameFr": "Annaba",
+            "codeTel": "38",
+            "codePost": "23000"
         },
-        "4":{
-            "nameEn":"Oum El Bouaghi",
-            "nameAr":"أم البواقي",
-            "code":"4",
-            "commune":[
+        "4": {
+            "nameEn": "Oum El Bouaghi",
+            "nameAr": "أم البواقي",
+            "code": "4",
+            "commune": [
                 "416",
                 "404",
                 "415",
@@ -1079,15 +1079,15 @@
                 "426",
                 "429"
             ],
-            "nameFr":"Oum El Bouaghi",
-            "codeTel":"32",
-            "codePost":"04000"
+            "nameFr": "Oum El Bouaghi",
+            "codeTel": "32",
+            "codePost": "04000"
         },
-        "28":{
-            "nameEn":"M'Sila",
-            "nameAr":"المسيلة",
-            "code":"28",
-            "commune":[
+        "28": {
+            "nameEn": "M'Sila",
+            "nameAr": "المسيلة",
+            "code": "28",
+            "commune": [
                 "2836",
                 "2815",
                 "2814",
@@ -1136,15 +1136,15 @@
                 "2835",
                 "2847"
             ],
-            "nameFr":"M'Sila",
-            "codeTel":"35",
-            "codePost":"28000"
+            "nameFr": "M'Sila",
+            "codeTel": "35",
+            "codePost": "28000"
         },
-        "19":{
-            "nameEn":"Sétif",
-            "nameAr":"سطيف",
-            "code":"19",
-            "commune":[
+        "19": {
+            "nameEn": "Sétif",
+            "nameAr": "سطيف",
+            "code": "19",
+            "commune": [
                 "1950",
                 "1917",
                 "1913",
@@ -1206,15 +1206,15 @@
                 "1930",
                 "1951"
             ],
-            "nameFr":"Sétif",
-            "codeTel":"36",
-            "codePost":"19000"
+            "nameFr": "Sétif",
+            "codeTel": "36",
+            "codePost": "19000"
         },
-        "34":{
-            "nameEn":"Bordj Bou Arreridj",
-            "nameAr":"برج بوعريريج",
-            "code":"34",
-            "commune":[
+        "34": {
+            "nameEn": "Bordj Bou Arreridj",
+            "nameAr": "برج بوعريريج",
+            "code": "34",
+            "commune": [
                 "3407",
                 "3421",
                 "3424",
@@ -1250,15 +1250,15 @@
                 "3425",
                 "3405"
             ],
-            "nameFr":"Bordj Bou Arreridj",
-            "codeTel":"35",
-            "codePost":"34000"
+            "nameFr": "Bordj Bou Arreridj",
+            "codeTel": "35",
+            "codePost": "34000"
         },
-        "17":{
-            "nameEn":"Djelfa",
-            "nameAr":"الجلفة",
-            "code":"17",
-            "commune":[
+        "17": {
+            "nameEn": "Djelfa",
+            "nameAr": "الجلفة",
+            "code": "17",
+            "commune": [
                 "1703",
                 "1702",
                 "1705",
@@ -1296,15 +1296,15 @@
                 "1720",
                 "1721"
             ],
-            "nameFr":"Djelfa",
-            "codeTel":"27",
-            "codePost":"17000"
+            "nameFr": "Djelfa",
+            "codeTel": "27",
+            "codePost": "17000"
         },
-        "3":{
-            "nameEn":"Laghouat",
-            "nameAr":"الأغواط",
-            "code":"3",
-            "commune":[
+        "3": {
+            "nameEn": "Laghouat",
+            "nameAr": "الأغواط",
+            "code": "3",
+            "commune": [
                 "315",
                 "320",
                 "303",
@@ -1330,15 +1330,15 @@
                 "323",
                 "311"
             ],
-            "nameFr":"Laghouat",
-            "codeTel":"29",
-            "codePost":"03000"
+            "nameFr": "Laghouat",
+            "codeTel": "29",
+            "codePost": "03000"
         },
-        "10":{
-            "nameEn":"Bouira",
-            "nameAr":"البويرة",
-            "code":"10",
-            "commune":[
+        "10": {
+            "nameEn": "Bouira",
+            "nameAr": "البويرة",
+            "code": "10",
+            "commune": [
                 "1041",
                 "1037",
                 "1007",
@@ -1385,27 +1385,27 @@
                 "1001",
                 "1020"
             ],
-            "nameFr":"Bouira",
-            "codeTel":"26",
-            "codePost":"10000"
+            "nameFr": "Bouira",
+            "codeTel": "26",
+            "codePost": "10000"
         },
-        "37":{
-            "nameEn":"Tindouf",
-            "nameAr":"تندوف",
-            "code":"37",
-            "commune":[
+        "37": {
+            "nameEn": "Tindouf",
+            "nameAr": "تندوف",
+            "code": "37",
+            "commune": [
                 "3702",
                 "3701"
             ],
-            "nameFr":"Tindouf",
-            "codeTel":"49",
-            "codePost":"37000"
+            "nameFr": "Tindouf",
+            "codeTel": "49",
+            "codePost": "37000"
         },
-        "36":{
-            "nameEn":"El Tarf",
-            "nameAr":"الطارف",
-            "code":"36",
-            "commune":[
+        "36": {
+            "nameEn": "El Tarf",
+            "nameAr": "الطارف",
+            "code": "36",
+            "commune": [
                 "3603",
                 "3606",
                 "3620",
@@ -1431,15 +1431,15 @@
                 "3624",
                 "3618"
             ],
-            "nameFr":"El Tarf",
-            "codeTel":"38",
-            "codePost":"36000"
+            "nameFr": "El Tarf",
+            "codeTel": "38",
+            "codePost": "36000"
         },
-        "33":{
-            "nameEn":"Illizi",
-            "nameAr":"إليزي",
-            "code":"33",
-            "commune":[
+        "33": {
+            "nameEn": "Illizi",
+            "nameAr": "إليزي",
+            "code": "33",
+            "commune": [
                 "3305",
                 "3306",
                 "3303",
@@ -1447,15 +1447,15 @@
                 "3304",
                 "3301"
             ],
-            "nameFr":"Illizi",
-            "codeTel":"29",
-            "codePost":"33000"
+            "nameFr": "Illizi",
+            "codeTel": "29",
+            "codePost": "33000"
         },
-        "29":{
-            "nameEn":"Mascara",
-            "nameAr":"معسكر",
-            "code":"29",
-            "commune":[
+        "29": {
+            "nameEn": "Mascara",
+            "nameAr": "معسكر",
+            "code": "29",
+            "commune": [
                 "2924",
                 "2923",
                 "2946",
@@ -1504,15 +1504,15 @@
                 "2933",
                 "2902"
             ],
-            "nameFr":"Mascara",
-            "codeTel":"45",
-            "codePost":"29000"
+            "nameFr": "Mascara",
+            "codeTel": "45",
+            "codePost": "29000"
         },
-        "27":{
-            "nameEn":"Mostaganem",
-            "nameAr":"مستغانم",
-            "code":"27",
-            "commune":[
+        "27": {
+            "nameEn": "Mostaganem",
+            "nameAr": "مستغانم",
+            "code": "27",
+            "commune": [
                 "2717",
                 "2718",
                 "2719",
@@ -1546,15 +1546,15 @@
                 "2706",
                 "2728"
             ],
-            "nameFr":"Mostaganem",
-            "codeTel":"45",
-            "codePost":"27000"
+            "nameFr": "Mostaganem",
+            "codeTel": "45",
+            "codePost": "27000"
         },
-        "47":{
-            "nameEn":"Ghardaia",
-            "nameAr":"غرداية",
-            "code":"47",
-            "commune":[
+        "47": {
+            "nameEn": "Ghardaia",
+            "nameAr": "غرداية",
+            "code": "47",
+            "commune": [
                 "4704",
                 "4706",
                 "4713",
@@ -1569,15 +1569,15 @@
                 "4702",
                 "4703"
             ],
-            "nameFr":"Ghardaia",
-            "codeTel":"29",
-            "codePost":"47000"
+            "nameFr": "Ghardaia",
+            "codeTel": "29",
+            "codePost": "47000"
         },
-        "13":{
-            "nameEn":"Tlemcen",
-            "nameAr":"تلمسان",
-            "code":"13",
-            "commune":[
+        "13": {
+            "nameEn": "Tlemcen",
+            "nameAr": "تلمسان",
+            "code": "13",
+            "commune": [
                 "1324",
                 "1303",
                 "1327",
@@ -1632,15 +1632,15 @@
                 "1322",
                 "1305"
             ],
-            "nameFr":"Tlemcen",
-            "codeTel":"43",
-            "codePost":"13000"
+            "nameFr": "Tlemcen",
+            "codeTel": "43",
+            "codePost": "13000"
         },
-        "46":{
-            "nameEn":"Aïn Temouchent",
-            "nameAr":"عين تموشنت",
-            "code":"46",
-            "commune":[
+        "46": {
+            "nameEn": "Aïn Temouchent",
+            "nameAr": "عين تموشنت",
+            "code": "46",
+            "commune": [
                 "4602",
                 "4622",
                 "4612",
@@ -1670,15 +1670,15 @@
                 "4601",
                 "4628"
             ],
-            "nameFr":"Aïn Temouchent",
-            "codeTel":"43",
-            "codePost":"46000"
+            "nameFr": "Aïn Temouchent",
+            "codeTel": "43",
+            "codePost": "46000"
         },
-        "20":{
-            "nameEn":"Saïda",
-            "nameAr":"سعيدة",
-            "code":"20",
-            "commune":[
+        "20": {
+            "nameEn": "Saïda",
+            "nameAr": "سعيدة",
+            "code": "20",
+            "commune": [
                 "2008",
                 "2004",
                 "2011",
@@ -1696,15 +1696,15 @@
                 "2005",
                 "2007"
             ],
-            "nameFr":"Saïda",
-            "codeTel":"48",
-            "codePost":"20000"
+            "nameFr": "Saïda",
+            "codeTel": "48",
+            "codePost": "20000"
         },
-        "11":{
-            "nameEn":"Tamanrasset",
-            "nameAr":"تمنراست",
-            "code":"11",
-            "commune":[
+        "11": {
+            "nameEn": "Tamanrasset",
+            "nameAr": "تمنراست",
+            "code": "11",
+            "commune": [
                 "1101",
                 "1104",
                 "1110",
@@ -1716,15 +1716,15 @@
                 "1107",
                 "1103"
             ],
-            "nameFr":"Tamanrasset",
-            "codeTel":"29",
-            "codePost":"11000"
+            "nameFr": "Tamanrasset",
+            "codeTel": "29",
+            "codePost": "11000"
         },
-        "18":{
-            "nameEn":"Jijel",
-            "nameAr":"جيجل",
-            "code":"18",
-            "commune":[
+        "18": {
+            "nameEn": "Jijel",
+            "nameAr": "جيجل",
+            "code": "18",
+            "commune": [
                 "1808",
                 "1824",
                 "1814",
@@ -1754,15 +1754,15 @@
                 "1822",
                 "1805"
             ],
-            "nameFr":"Jijel",
-            "codeTel":"34",
-            "codePost":"18000"
+            "nameFr": "Jijel",
+            "codeTel": "34",
+            "codePost": "18000"
         },
-        "42":{
-            "nameEn":"Tipaza",
-            "nameAr":"تيبازة",
-            "code":"42",
-            "commune":[
+        "42": {
+            "nameEn": "Tipaza",
+            "nameAr": "تيبازة",
+            "code": "42",
+            "commune": [
                 "4219",
                 "4211",
                 "4214",
@@ -1792,15 +1792,15 @@
                 "4220",
                 "4204"
             ],
-            "nameFr":"Tipaza",
-            "codeTel":"24",
-            "codePost":"42000"
+            "nameFr": "Tipaza",
+            "codeTel": "24",
+            "codePost": "42000"
         },
-        "2":{
-            "nameEn":"Chlef",
-            "nameAr":"الشلف",
-            "code":"2",
-            "commune":[
+        "2": {
+            "nameEn": "Chlef",
+            "nameAr": "الشلف",
+            "code": "2",
+            "commune": [
                 "202",
                 "219",
                 "231",
@@ -1837,15 +1837,15 @@
                 "209",
                 "207"
             ],
-            "nameFr":"Chlef",
-            "codeTel":"27",
-            "codePost":"02000"
+            "nameFr": "Chlef",
+            "codeTel": "27",
+            "codePost": "02000"
         },
-        "38":{
-            "nameEn":"Tissemsilt",
-            "nameAr":"تسمسيلت",
-            "code":"38",
-            "commune":[
+        "38": {
+            "nameEn": "Tissemsilt",
+            "nameAr": "تسمسيلت",
+            "code": "38",
+            "commune": [
                 "3805",
                 "3813",
                 "3802",
@@ -1869,15 +1869,15 @@
                 "3820",
                 "3810"
             ],
-            "nameFr":"Tissemsilt",
-            "codeTel":"46",
-            "codePost":"38000"
+            "nameFr": "Tissemsilt",
+            "codeTel": "46",
+            "codePost": "38000"
         },
-        "7":{
-            "nameEn":"Biskra",
-            "nameAr":"بسكرة",
-            "code":"7",
-            "commune":[
+        "7": {
+            "nameEn": "Biskra",
+            "nameAr": "بسكرة",
+            "code": "7",
+            "commune": [
                 "719",
                 "733",
                 "721",
@@ -1912,15 +1912,15 @@
                 "708",
                 "725"
             ],
-            "nameFr":"Biskra",
-            "codeTel":"33",
-            "codePost":"07000"
+            "nameFr": "Biskra",
+            "codeTel": "33",
+            "codePost": "07000"
         },
-        "1":{
-            "nameEn":"Adrar",
-            "nameAr":"أدرار",
-            "code":"1",
-            "commune":[
+        "1": {
+            "nameEn": "Adrar",
+            "nameAr": "أدرار",
+            "code": "1",
+            "commune": [
                 "111",
                 "124",
                 "121",
@@ -1950,15 +1950,15 @@
                 "117",
                 "118"
             ],
-            "nameFr":"Adrar",
-            "codeTel":"49",
-            "codePost":"01000"
+            "nameFr": "Adrar",
+            "codeTel": "49",
+            "codePost": "01000"
         },
-        "16":{
-            "nameEn":"Alger",
-            "nameAr":"الجزائر",
-            "code":"16",
-            "commune":[
+        "16": {
+            "nameEn": "Alger",
+            "nameAr": "الجزائر",
+            "code": "16",
+            "commune": [
                 "1627",
                 "1602",
                 "1654",
@@ -2017,9 +2017,9 @@
                 "1612",
                 "1642"
             ],
-            "nameFr":"Alger",
-            "codeTel":"21",
-            "codePost":"16000"
+            "nameFr": "Alger",
+            "codeTel": "21",
+            "codePost": "16000"
         }
     }
 }
