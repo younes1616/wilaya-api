@@ -6,6 +6,10 @@
 [En] A database containing the Wilayas at Baladia (communes), Algeria. With all their data possible.  
 [Ar]  قاعدة بيانات تحتوي على الولايات و البلديات بالجزائر. مع كل البيانات الخاصة بهم
 
+## More Data About Algeria
+
+You can download the data only from the [DZ-Wilaya-Data](https://github.com/Ta7lil/DZ-Wilaya-Data) repository, and consider visiting The [Ta7lil Organisation](https://github.com/Ta7lil) GitHub account for more Data about Algeria.
+
 ## HOW TO READ THE CODE
 
 1. easySqlite3
