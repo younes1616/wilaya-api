@@ -103,7 +103,7 @@ since I used Pytohn, the pythonData contains the data as Python data structers.
 > Tables Schemas
 
 * `schema.sql`: The Tables Schema for the Sql, MySql like databases.
-* `schema.sql`: The Tables Schema for the Sqlite databases.
+* `schema.sqlite`: The Tables Schema for the Sqlite databases.
 
 > The Data
 
