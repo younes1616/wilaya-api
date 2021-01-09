@@ -2,7 +2,7 @@
 
 ## Description
 
-[En] DZ-Wilaya-Data, is a set of collected Data, that containins the list of the Algerian ***States (Wilaya)*** and  ***Provinces (Baladiya)***. Wialaya codes, and Baladiya codes, post codes and phones codes, are all included in this Data set.  
+[En] A Data-Set, that containins the list of the Algerian ***States (Wilaya)*** and  ***Provinces (Baladiya)***. Wialaya codes, and Baladiya codes, post codes and phones codes, are all included in this Data set.  
 The Data is represented into two formats, JSON and SQL.
 
 [Fr] Une base de données qui contient les Wilayas at Baladia(communes), de l'algerie. Avec toutes leurs donnes possible.
