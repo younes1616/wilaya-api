@@ -2,7 +2,7 @@
 
 ## Description
 
-[En] A Data-Set, that containins the list of the Algerian ***States (Wilaya)*** and  ***Provinces (Baladiya)***. Wialaya codes, and Baladiya codes, post codes and phones codes, are all included in this Data set.  
+[En] A Data-Set, that containins the list of the Algerian ***States (Wilaya)*** and  ***Provinces (Baladiya)***. Wialaya codes, and Baladiya codes, post codes and phones codes, are all included in this Data set.
 The Data is represented into two formats, JSON and SQL.
 
 [Fr] Une base de données qui contient les Wilayas at Baladia(communes), de l'algerie. Avec toutes leurs donnes possible.
@@ -55,8 +55,8 @@ There are the following recources used to collect and combine the Data.
 
 ## Explain Data
 
-I did my best to make the collected data into all the most used formats,  
-since I used Pytohn, the pythonData contains the data as Python data structers.  
+I did my best to make the collected data into all the most used formats,
+since I used Pytohn, the pythonData contains the data as Python data structers.
 
 ### Json Data
 
@@ -109,5 +109,25 @@ since I used Pytohn, the pythonData contains the data as Python data structers.
 
 * `data.sql`: A Data migration file, for inserting all the Data after creating the tables, it is for Sql, MySql like databases.
 * `data.sqlite`: The Sqlite Database, therefore it is portable, just copy paste it, and use it.
+ 
+### Csv Data
+
+ℹ️ The data in the CSV format is separated by a TAB.
+
+> The Data Related To The States (Wilaya)
+
+* `wilaya.csv`: The list of all the States (With all the Data, except Provinces).
+* `wilayaAr.csv`: The list of all the States names in Arabic.
+* `wilayaFr.csv`: The list of all the States names in French.
+* `wilayaCode.csv`: The list of all the States codes.
+* `wilayaCodePost.csv`: The list of all the States poste codes.
+* `wilayaCodeTel.csv`: The list of all the States telephone codes.
+
+> The Data Related To The Provinces (Baladiya)
+
+* `baladiya.csv`: The list of all the Provinces (With all the Data).
+* `baladiyaAr.csv`: The list of all the Provinces names in Arabic.
+* `baladiyaFr.csv`: The list of all the Provinces names in French.
+* `baladiyaCode.csv`: The list of all the Provinces codes.
   
 ***Please check the files, for a better undertanding***
