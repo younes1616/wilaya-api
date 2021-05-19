@@ -11,7 +11,7 @@ The Data is represented into two formats, JSON and SQL.
 
 ## More Data About Algeria
 
-You can download the Data only from the [DZ-Wilaya-Data](https://github.com/Ta7lil/DZ-Wilaya-Data) repository, and consider visiting the [Ta7lil Organisation](https://github.com/Ta7lil) GitHub account for more Data about Algeria.
+You can download the Data only from the [DZ-Wilaya-Data](https://github.com/Ta7lilTeam/DZ-Wilaya-Data) repository, and consider visiting the [Ta7lil Team](https://github.com/Ta7lilTeam) GitHub account for more Data about Algeria.
 
 ## How To Read The Code
 
