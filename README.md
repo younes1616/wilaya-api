@@ -36,6 +36,7 @@ You can download the Data only from the [DZ-Wilaya-Data](https://github.com/Ta7l
 * every thing is a String, varchar(50), text. No mixed up types.
 * `config.py` File, contains all the used recources in the Project.
 * The crowlers and scrapers, are all done in Python.
+* Consider the professional work of [Fcmam5/algeria-api](https://github.com/Fcmam5/algeria-api), since it's a perfect REST API.
 
 ## Resources
 
