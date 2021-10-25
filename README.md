@@ -5,7 +5,7 @@
 This branch is the new version of the wilaya-api project, with new data and modifications added.
 
 The following modifications will be attributed:
-
+	
 > Data
 - Adding geolocation data.
 - Updating the used resources for data, from the previous version.
@@ -13,7 +13,8 @@ The following modifications will be attributed:
 
 > Refactor
 - Refactoring code, so it gets more flexible.
-- rfctr-2: Cleaning the current data.
+- Cleaning the current data.
+- Change the name of the repo to, wilaya-api
 
 > Build
 - Build a rest api.
