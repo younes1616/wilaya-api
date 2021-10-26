@@ -1,4 +1,8 @@
+# Python compiles
 *.pyc
-.vscode
-env
 
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# The virtuel envirement
+env
