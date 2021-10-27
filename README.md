@@ -14,7 +14,7 @@ The following modifications will be attributed:
 > Refactor
 - Refactoring code, so it gets more flexible.
 - Cleaning the current data.
-- :white_check_mark: Change the name of the repo to wilaya-api
+- :heavy_check_mark: Change the name of the repo to wilaya-api
 
 > Build
 - Build a rest api.
