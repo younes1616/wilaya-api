@@ -7,5 +7,8 @@ https://www.algerietelecom.dz/fr/annuaire
 https://fr.wikipedia.org/wiki/Liste_des_codes_t%C3%A9l%C3%A9phoniques_des_wilayas_d%27Alg%C3%A9rie
 
 # poste codes
-# the wikipedia correspondes exactly
 https://www.algerie-poste.net/code-postal/
+https://www.geonames.org/
+
+# geolocation
+https://www.geonames.org/
